@@ -1,0 +1,46 @@
+﻿/*CSS Viincent*/
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/*.login-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 200vh;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    width: 365px;
+    padding: 15px;
+    border-radius: 0px;
+}
+
+.login-form h2{
+    padding-bottom: 5px;
+}
+.login-image {
+    display: flex;
+    align-items: center;
+}
+
+.login-right {
+    padding: 15px;
+    width: 365px;
+}
+
+body {
+    font-size: 17px;
+}*/
+
+@font-face {
+    font-family: "Poppins";
+    src: url(../Assets/Poppins/Poppins-Regular.ttf);
+}

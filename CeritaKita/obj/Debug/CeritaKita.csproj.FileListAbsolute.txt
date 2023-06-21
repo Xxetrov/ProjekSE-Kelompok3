@@ -1,0 +1,558 @@
+C:\Users\Hp\source\repos\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\Hp\source\repos\CeritaKita\bin\CeritaKita.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\CeritaKita.pdb
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csc.exe
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csi.exe
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\source\repos\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\source\repos\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\source\repos\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\source\repos\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\Hp\source\repos\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\Hp\source\repos\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\CeritaKita.pdb
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csi.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\CeritaKita.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\CeritaKita.pdb
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csc.exe
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csi.exe
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\EntityFramework.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\EntityFramework.xml
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Documents\CeritaKita\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\CeritaKita.pdb
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csi.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\EntityFramework.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\EntityFramework.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Pattern Software Lab\Projek\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\CeritaKita.pdb
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csi.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\EntityFramework.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\EntityFramework.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\vince\OneDrive\Documents\Perkuliahan BINUS\Perkuliahan semester 4\Software Engineer\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\CeritaKita.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\CeritaKita.pdb
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\EntityFramework.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\EntityFramework.xml
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\WebProg\Software Engineer\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\CeritaKita.dll.config
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\CeritaKita.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\CeritaKita.pdb
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Console.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\EntityFramework.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\EntityFramework.xml
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Users\Hp\Desktop\WebProg\Cerita_Kita_SE\CeritaKita(1)\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\CeritaKita.dll.config
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\CeritaKita.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\CeritaKita.pdb
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csc.exe
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csc.exe.config
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csc.rsp
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csi.exe
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csi.exe.config
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\csi.rsp
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Console.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\vbc.exe
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\vbc.rsp
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\EntityFramework.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\EntityFramework.xml
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Projek_se\Cerita_Kita\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projek_se\Cerita_Kita\CeritaKita\obj\Debug\CeritaKita.csproj.AssemblyReference.cache
+C:\Projek_se\Cerita_Kita\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Projek_se\Cerita_Kita\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Projek_se\Cerita_Kita\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Projek_se\Cerita_Kita\CeritaKita\obj\Debug\CeritaKita.pdb
+C:\Se_projek\CeritaKita\bin\CeritaKita.dll.config
+C:\Se_projek\CeritaKita\bin\CeritaKita.dll
+C:\Se_projek\CeritaKita\bin\CeritaKita.pdb
+C:\Se_projek\CeritaKita\bin\roslyn\csc.exe
+C:\Se_projek\CeritaKita\bin\roslyn\csc.exe.config
+C:\Se_projek\CeritaKita\bin\roslyn\csc.rsp
+C:\Se_projek\CeritaKita\bin\roslyn\csi.exe
+C:\Se_projek\CeritaKita\bin\roslyn\csi.exe.config
+C:\Se_projek\CeritaKita\bin\roslyn\csi.rsp
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Se_projek\CeritaKita\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.AppContext.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Collections.Immutable.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Console.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Globalization.Calendars.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.IO.Compression.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.IO.FileSystem.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Net.Http.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Net.Sockets.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Reflection.Metadata.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.ValueTuple.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Xml.XPath.dll
+C:\Se_projek\CeritaKita\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Se_projek\CeritaKita\bin\roslyn\vbc.exe
+C:\Se_projek\CeritaKita\bin\roslyn\vbc.exe.config
+C:\Se_projek\CeritaKita\bin\roslyn\vbc.rsp
+C:\Se_projek\CeritaKita\bin\roslyn\VBCSCompiler.exe
+C:\Se_projek\CeritaKita\bin\roslyn\VBCSCompiler.exe.config
+C:\Se_projek\CeritaKita\bin\EntityFramework.dll
+C:\Se_projek\CeritaKita\bin\EntityFramework.SqlServer.dll
+C:\Se_projek\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Se_projek\CeritaKita\bin\EntityFramework.xml
+C:\Se_projek\CeritaKita\bin\EntityFramework.SqlServer.xml
+C:\Se_projek\CeritaKita\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Se_projek\CeritaKita\obj\Debug\CeritaKita.csproj.CoreCompileInputs.cache
+C:\Se_projek\CeritaKita\obj\Debug\CeritaKita.csproj.CopyComplete
+C:\Se_projek\CeritaKita\obj\Debug\CeritaKita.dll
+C:\Se_projek\CeritaKita\obj\Debug\CeritaKita.pdb
